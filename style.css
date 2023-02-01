@@ -1,0 +1,15 @@
+ody {
+  background-color: salmon;
+  color: rgb(240, 12, 12);
+  font-family: monospace;
+}
+
+a {
+  color: rgb(226, 12, 12);
+}
+
+td,
+th {
+  border: 1px solid rgb(219, 11, 11);
+  padding: 0.5rem;
+}
