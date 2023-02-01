@@ -1,15 +1,20 @@
-ody {
-  background-color: salmon;
-  color: rgb(240, 12, 12);
+body {
+  background-color: rgb(228, 193, 81);
+  color: rgb(12, 8, 8);
   font-family: monospace;
 }
 
 a {
-  color: rgb(226, 12, 12);
+  color: rgb(23, 45, 243);
 }
 
 td,
 th {
-  border: 1px solid rgb(219, 11, 11);
+  border: 1px solid rgb(156, 104, 25);
   padding: 0.5rem;
+}
+
+#location {
+  display: flex;
+  justify-content: space-around;
 }
